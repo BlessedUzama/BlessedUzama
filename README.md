@@ -19,4 +19,3 @@ I'm a Frontend Developer and aspiring Software Engineer with a strong passion fo
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=uzamablessed&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Uzama's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzamablessed&langs_count=8&layout=compact&hide_border=true" alt="Uzama's top languages" /> |
 | ------------- | ------------- |
 
-
